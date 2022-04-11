@@ -57,10 +57,10 @@ You can access your files by navigating into the channel, on the tab at the top 
 The interface is "almost" similar to SharePoint. At the top, you can create new files, upload files, download files, etc.
 
 Another way from Microsoft Teams would be to open the associated site directly.
-If you are in the _Posts_ tab of a channel, click on the ellipses (...) on the top right corner under your profile picture, and select **Open in SharePoint**. You'll then be redirected to the folder containing your files/documents.
+If you are in the _Posts_ tab of a channel, click on the ellipsis (...) on the top right corner under your profile picture, and select **Open in SharePoint**. You'll then be redirected to the folder containing your files/documents.
 
 In case you only want to open a specific file, this is also possible.
-This time, navigate to the _Files_ tab of the channel, click on the ellipses (...) next to the file itself, and select **Open in SharePoint**. Although you'd think it would filter the view for only that document, but unfortunately it doesn't.
+This time, navigate to the _Files_ tab of the channel, click on the ellipsis (...) next to the file itself, and select **Open in SharePoint**. Although you'd think it would filter the view for only that document, but unfortunately it doesn't.
 
 **Accessing via SharePoint Online**
 If you feel comfortable in using the SharePoint Online interface, feel free to go directly to the site. The common URL is structured like this: `https://<tenant-name>.sharepoint.com/sites/<Team-name>/Shared%20Documents/<channel-name>`
